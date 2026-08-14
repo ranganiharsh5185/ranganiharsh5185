@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ranganiharsh5185">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1050&text=Hi%20there%2C%20I'm%20Prince%20Gajera%20%F0%9F%91%8B" alt="Hi there, I'm Harsh Rangani 👋" />
+    <img src="" alt="Hi there, I'm Harsh Rangani 👋" />
   </a>
 </p>
 
